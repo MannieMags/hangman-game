@@ -1,1 +1,3 @@
 https://manniemaghangman.herokuapp.com
+
+https://manniemaghangman-f886169fb7f3.herokuapp.com/
